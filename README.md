@@ -4,7 +4,7 @@
 A continuación presentamos las **instrucciones**, **propuestas**, **insumos**, etc. para el proyecto de las asignaturas: Fundamentos computacionales e Introducción a la programación. 
 
 
-### INTRUCCIONES – Fundamentos computacionales
+### INTRUCCIONES – _"Fundamentos computacionales"_
 
 | Semana | Actividad                                                                                               | Producto esperado                                                  |
 |--------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
@@ -18,7 +18,7 @@ A continuación presentamos las **instrucciones**, **propuestas**, **insumos**, 
 | 16     | Exposición final del algoritmo, pseudocódigo y diagramas en relación a la problemática                   | Formularios de auto/coevaluación + reflexión final                  |
 
 
-### INTRUCCIONES – Introducción a la Programación
+### INTRUCCIONES – _"Introducción a la Programación"_
 
 
 | Semana | Actividad                                                                                               | Producto esperado                                                     |
@@ -38,7 +38,7 @@ __*Nota*__: Documentar adecuadamente estos entregables con comentarios, enunciad
 
 ---
 
-### Proyecto1 ABP: Problema central
+### Proyecto-01 ABP: _"Problema central"_
 Muchos estudiantes no controlan el tiempo que pasan frente a la pantalla de sus celulares, lo que afecta su rendimiento académico y su salud. Se requiere una aplicación en consola (Java o Python) que registre horas de uso diario, genere reportes semanales y emita alertas si se supera un límite establecido.
 
 **Producto final esperado**
@@ -47,7 +47,7 @@ Muchos estudiantes no controlan el tiempo que pasan frente a la pantalla de sus 
 - Alertas al superar un límite de tiempo configurado.
 ---
 
-### Proyecto2 ABP: Gestor de Hábitos Saludables
+### Proyecto-02 ABP: _"Gestor de Hábitos Saludables"_
 
 Muchos jóvenes no logran mantener hábitos de bienestar (sueño, hidratación, ejercicio) por falta de seguimiento.
 
@@ -57,7 +57,7 @@ Muchos jóvenes no logran mantener hábitos de bienestar (sueño, hidratación, 
 - Alertas al no cumplir metas diarias.
 ---
 
-### Proyecto3 ABP:  Control de Alimentación Diaria
+### Proyecto-03 ABP: _"Control de Alimentación Diaria"_
 
 La falta de control en la alimentación dificulta mantener una dieta equilibrada.
 
@@ -67,7 +67,7 @@ La falta de control en la alimentación dificulta mantener una dieta equilibrada
 - Reportes semanales de balance calórico.
 ---
 
-### Proyecto4 ABP: Calculadora de Ahorro Personal
+### Proyecto-04 ABP: _"Calculadora de Ahorro Personal"_
 
 **Problema central**
 Muchas personas no saben cuánto deben ahorrar para cumplir metas financieras futuras.
@@ -78,7 +78,7 @@ Muchas personas no saben cuánto deben ahorrar para cumplir metas financieras fu
 - Proyección del tiempo necesario para alcanzar una meta.
 ---
 
-### Proyecto5 ABP:  Planificador de Tareas y Recordatorios
+### Proyecto-05 ABP: _"Planificador de Tareas y Recordatorios"_
 
 **Problema central**
 La desorganización de actividades y fechas límite afecta el cumplimiento académico.
@@ -90,7 +90,7 @@ Una aplicación de consola que:
 - Muestre porcentaje de tareas completadas.
 ---
 
-### Proyecto6 ABP: Sistema para Calcular y Recomendar Consumo de Internet Mensual
+### Proyecto-06 ABP: _"Sistema para Calcular y Recomendar Consumo de Internet Mensual"_
 
 Muchos estudiantes utilizan planes de datos móviles para clases, redes sociales y entretenimiento, sin saber si su consumo es adecuado o si están gastando de más.
 
@@ -100,9 +100,4 @@ Muchos estudiantes utilizan planes de datos móviles para clases, redes sociales
 - Recomendación de plan de datos (pequeño, mediano o grande).  
 - Sugerencias para optimizar el uso.  
 - Almacenamiento de consumo histórico, análisis de promedios y detección de aumento o disminución del gasto.
-
-
-
-
-
 
