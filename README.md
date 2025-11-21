@@ -38,7 +38,8 @@ __*Nota*__: Documentar adecuadamente estos entregables con comentarios, enunciad
 
 ---
 
-### Proyecto-01 ABP: _"Problema central"_
+### Proyecto-01 ABP: _"Control de consumo de pantalla de celulares"_
+
 Muchos estudiantes no controlan el tiempo que pasan frente a la pantalla de sus celulares, lo que afecta su rendimiento académico y su salud. Se requiere una aplicación en consola (Java o Python) que registre horas de uso diario, genere reportes semanales y emita alertas si se supera un límite establecido.
 
 **Producto final esperado**
@@ -47,7 +48,7 @@ Muchos estudiantes no controlan el tiempo que pasan frente a la pantalla de sus 
 - Alertas al superar un límite de tiempo configurado.
 ---
 
-### Proyecto-02 ABP: _"Gestor de Hábitos Saludables"_
+### Proyecto-02 ABP: _"Gestor de hábitos saludables"_
 
 Muchos jóvenes no logran mantener hábitos de bienestar (sueño, hidratación, ejercicio) por falta de seguimiento.
 
@@ -57,7 +58,7 @@ Muchos jóvenes no logran mantener hábitos de bienestar (sueño, hidratación, 
 - Alertas al no cumplir metas diarias.
 ---
 
-### Proyecto-03 ABP: _"Control de Alimentación Diaria"_
+### Proyecto-03 ABP: _"Control de alimentación diaria"_
 
 La falta de control en la alimentación dificulta mantener una dieta equilibrada.
 
@@ -67,9 +68,8 @@ La falta de control en la alimentación dificulta mantener una dieta equilibrada
 - Reportes semanales de balance calórico.
 ---
 
-### Proyecto-04 ABP: _"Calculadora de Ahorro Personal"_
+### Proyecto-04 ABP: _"Calculadora de ahorro personal"_
 
-**Problema central**
 Muchas personas no saben cuánto deben ahorrar para cumplir metas financieras futuras.
 
 **Producto final esperado**
@@ -78,19 +78,20 @@ Muchas personas no saben cuánto deben ahorrar para cumplir metas financieras fu
 - Proyección del tiempo necesario para alcanzar una meta.
 ---
 
-### Proyecto-05 ABP: _"Planificador de Tareas y Recordatorios"_
+### Proyecto-05 ABP: _"Planificador de tareas y recordatorios"_
 
-**Problema central**
 La desorganización de actividades y fechas límite afecta el cumplimiento académico.
 
 **Producto final esperado**
+
 Una aplicación de consola que:  
+
 - Registre tareas con prioridad y fecha.  
 - Liste pendientes por proximidad y prioridad.  
 - Muestre porcentaje de tareas completadas.
 ---
 
-### Proyecto-06 ABP: _"Sistema para Calcular y Recomendar Consumo de Internet Mensual"_
+### Proyecto-06 ABP: _"Sistema para calcular y recomendar consumo de internet mensual"_
 
 Muchos estudiantes utilizan planes de datos móviles para clases, redes sociales y entretenimiento, sin saber si su consumo es adecuado o si están gastando de más.
 
